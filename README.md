@@ -20,8 +20,8 @@ hardware and documentation for a user-friendly interface for this facility.
 - Yingzheng Liu <u7112372@anu.edu.au>
 
 ## Repositories
-We have all of our documents on google drive and can be viewed(but not edited) via the following link.
-[Google Drive:](https://drive.google.com/drive/folders/1iQv86kc0_cZ6hoyYyBE39-fbijGRcRPB?usp=sharing).
+We have all of our documents on google drive and can be viewed(but not edited)
+[here](https://drive.google.com/drive/folders/1iQv86kc0_cZ6hoyYyBE39-fbijGRcRPB?usp=sharing).
 
 ## Concept of Operations
 
