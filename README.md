@@ -1,4 +1,4 @@
-# HyperviewCapstone.github.io
+# HyperviewCapstone
 
 ## Project Summary
 
@@ -25,4 +25,5 @@ hardware and documentation for a user-friendly interface for this facility.
 
 ## Concept of Operations
 
-[Link to Con-ops](https://pages.github.com/).
+The link to our Con-ops can be found here:
+[Con-ops](https://docs.google.com/document/d/e/2PACX-1vRGPuAjrLsx784MuRp6Z50Rg-7hdHrNgCCaArmJ4hUA0zoNK-3MK4YHsUOnW50Ay2KSNTIYVoVEV5WG/pub).
