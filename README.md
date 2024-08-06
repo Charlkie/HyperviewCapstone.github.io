@@ -20,8 +20,8 @@ hardware and documentation for a user-friendly interface for this facility.
 - Yingzheng Liu <u7112372@anu.edu.au>
 
 ## Repositories
-
-[Con-ops]([https://docs.google.com/document/d/e/2PACX-1vRGPuAjrLsx784MuRp6Z50Rg-7hdHrNgCCaArmJ4hUA0zoNK-3MK4YHsUOnW50Ay2KSNTIYVoVEV5WG/pub](https://drive.google.com/drive/folders/1iQv86kc0_cZ6hoyYyBE39-fbijGRcRPB?usp=sharing)).
+We have all of our documents on google drive and can be viewed(but not editted) via the following link.
+[Google Drive:]([https://docs.google.com/document/d/e/2PACX-1vRGPuAjrLsx784MuRp6Z50Rg-7hdHrNgCCaArmJ4hUA0zoNK-3MK4YHsUOnW50Ay2KSNTIYVoVEV5WG/pub](https://drive.google.com/drive/folders/1iQv86kc0_cZ6hoyYyBE39-fbijGRcRPB?usp=sharing)).
 
 ## Concept of Operations
 
