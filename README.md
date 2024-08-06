@@ -12,12 +12,12 @@ hardware and documentation for a user-friendly interface for this facility.
 
 ## Meet the team
 
-• Armando Castelo <u7231943@anu.edu.au>
-• Charl Kruger <u6951533@anu.edu.au>
-• Kexiang Wang <u7394240@anu.edu.au>
-• Maximilian Parker <u7398910@anu.edu.au>
-• Xin Lou <u6803896@anu.edu.au>
-• Yingzheng Liu <u7112372@anu.edu.au>
+- Armando Castelo <u7231943@anu.edu.au>
+- Charl Kruger <u6951533@anu.edu.au>
+- Kexiang Wang <u7394240@anu.edu.au>
+- Maximilian Parker <u7398910@anu.edu.au>
+- Xin Lou <u6803896@anu.edu.au>
+- Yingzheng Liu <u7112372@anu.edu.au>
 
 ## Repositories
 
