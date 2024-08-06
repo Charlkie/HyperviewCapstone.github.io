@@ -1,4 +1,4 @@
-# HyperviewCapstone
+# Hyperview Capstone Project
 
 ## Project Summary
 
