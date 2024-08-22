@@ -1,5 +1,4 @@
-# Hyperview Capstone Project
-
+# Automation of T2 Free-Piston Shock Tunnel (Shock-driven wind tunnel)
 
 <table>
   <tr>
