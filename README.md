@@ -70,3 +70,7 @@ The link to our Con-ops can be found here:
 please no inserting code lol, no parsing done on input
 
 https://issue-tracker-1d4ed.firebaseapp.com/
+
+## Work Break-Down Structure
+
+https://docs.google.com/spreadsheets/d/121keRA4e_B9DwGpZujkCIpi9Lcfe3kRTRIhdFKdyd7o/edit?gid=0#gid=0
