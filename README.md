@@ -66,7 +66,7 @@ We have all of our documents on google drive and can be viewed(but not edited)
 The link to our Con-ops can be found here:
 [Con-ops](https://docs.google.com/document/d/e/2PACX-1vRGPuAjrLsx784MuRp6Z50Rg-7hdHrNgCCaArmJ4hUA0zoNK-3MK4YHsUOnW50Ay2KSNTIYVoVEV5WG/pub).
 
-## Issue tracker
+## Issue Tracker
 please no inserting code lol, no parsing done on input
 
 https://issue-tracker-1d4ed.firebaseapp.com/
