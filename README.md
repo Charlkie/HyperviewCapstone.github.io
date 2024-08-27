@@ -27,19 +27,20 @@ The link to our Con-ops can be found here:
 [Con-ops](https://docs.google.com/document/d/e/2PACX-1vRGPuAjrLsx784MuRp6Z50Rg-7hdHrNgCCaArmJ4hUA0zoNK-3MK4YHsUOnW50Ay2KSNTIYVoVEV5WG/pub).
 
 ## Issue Tracker
-please no inserting code lol, no parsing done on input
+Issue tracker]please no inserting code lol, no parsing done on input. Access [here](https://issue-tracker-1d4ed.firebaseapp.com/)
 
 https://issue-tracker-1d4ed.firebaseapp.com/
 
 ## Work Break-Down Structure
 
-https://docs.google.com/spreadsheets/d/121keRA4e_B9DwGpZujkCIpi9Lcfe3kRTRIhdFKdyd7o/edit?gid=0#gid=0
+[WBS](https://docs.google.com/spreadsheets/d/121keRA4e_B9DwGpZujkCIpi9Lcfe3kRTRIhdFKdyd7o/edit?gid=0#gid=0)
 
 ## Repositories
 We have all of our documents on google drive and can be viewed(but not edited)
 [here](https://drive.google.com/drive/folders/1iQv86kc0_cZ6hoyYyBE39-fbijGRcRPB?usp=sharing).
 
-```ENGN4300 - Hyperview's Repository
+```txt
+ENGN4300 - Hyperview's Repository
   |_ 7.0 Discarded Files
   |_ 6.0 Project Closure
   |_ 5.0 Communications
@@ -105,4 +106,5 @@ We have all of our documents on google drive and can be viewed(but not edited)
   |_   |_ gantt chart.mpp
   |_   |_ gantt chart.pdf
   |_ Tickets
-  |_ README```
+  |_ README
+```
