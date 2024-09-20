@@ -43,11 +43,9 @@ https://issue-tracker-1d4ed.firebaseapp.com/
 [WBS](https://docs.google.com/spreadsheets/d/121keRA4e_B9DwGpZujkCIpi9Lcfe3kRTRIhdFKdyd7o/edit?gid=0#gid=0)
 
 ## Repositories
-We have all of our documents on google drive and can be viewed(but not edited)
-[here](https://drive.google.com/drive/folders/1iQv86kc0_cZ6hoyYyBE39-fbijGRcRPB?usp=sharing).
 
 <div>
-    <p>ENGN4300 - Hyperview's Repository</p>
+    <a href="https://drive.google.com/drive/folders/1iQv86kc0_cZ6hoyYyBE39-fbijGRcRPB?usp=sharing">ENGN4300 - Hyperview's Repository</a>
     <ul>
       <li><a href="https://docs.google.com/document/d/1hCHGRocxe0S2ev2vEF7xBoG97x4UjUpxqV7dzf2FVTA/edit?usp=drivesdk">README</a></li>
       <li>1.0 Project Management
