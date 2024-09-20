@@ -46,7 +46,6 @@ https://issue-tracker-1d4ed.firebaseapp.com/
 We have all of our documents on google drive and can be viewed(but not edited)
 [here](https://drive.google.com/drive/folders/1iQv86kc0_cZ6hoyYyBE39-fbijGRcRPB?usp=sharing).
 
-```txt
 ENGN4300 - Hyperview's Repository
   |_ [README](https://docs.google.com/document/d/1hCHGRocxe0S2ev2vEF7xBoG97x4UjUpxqV7dzf2FVTA/edit?usp=drivesdk)
   |_ 1.0 Project Management
@@ -126,4 +125,3 @@ ENGN4300 - Hyperview's Repository
   |_   |_   |_ [22-Aug-24 Meeting 06](https://docs.google.com/document/d/1umVL5HS3qtZq6PBhnhDIoIe0PC3174S7UZyhJbKR43U/edit?usp=drivesdk)
   |_   |_   |_ [27-Aug-24 Meeting 08](https://docs.google.com/document/d/13ZRdX1BFRRG9riimSK77iJPgOxFzXZtBSpx_H_4MUMY/edit?usp=drivesdk)
   |_   |_   |_ [17-Sep-24 Meeting 09](https://docs.google.com/document/d/16z2I4vIAFuarJnJrAedI_ojqfwl_u_rX6Iv9ig5BOys/edit?)
-```
