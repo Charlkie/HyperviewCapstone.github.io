@@ -1,6 +1,13 @@
 # Automation of T2 Free-Piston Shock Tunnel (Shock-driven wind tunnel)
 
-Progress bar will go here
+<div style="text-align: center; font-family: 'Roboto', sans-serif;">
+    <h2>Progress Bar</h2>
+    <div style="width: 80%; margin: 0 auto; background-color: #f3f3f3; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); height: 50px;">
+        <div style="height: 100%; width: 20%; background-color: orange; border-radius: 15px; text-align: center; line-height: 50px; color: white; font-weight: bold;">
+            75%
+        </div>
+    </div>
+</div>
 
 ## Project Summary
 
