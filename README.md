@@ -36,8 +36,9 @@ hardware and documentation for a user-friendly interface for this facility.
 
 ## [Work Break-Down Structure](https://docs.google.com/spreadsheets/d/121keRA4e_B9DwGpZujkCIpi9Lcfe3kRTRIhdFKdyd7o/edit?gid=0#gid=0)
 
-## [Repositories](https://drive.google.com/drive/folders/1iQv86kc0_cZ6hoyYyBE39-fbijGRcRPB?usp=sharing)
+## [Functional Breakdown](https://docs.google.com/document/d/1AttRSd3ZpnZj-HwfrDnpwyIfs05T5YOCBRiZgvpuqZc/edit?tab=t.0)
 
+## [Repositories](https://drive.google.com/drive/folders/1iQv86kc0_cZ6hoyYyBE39-fbijGRcRPB?usp=sharing)
 For convenince an expanded view (with link) of the repo's is provided below.
 
 <div>
