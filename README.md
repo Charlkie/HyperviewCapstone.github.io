@@ -6,7 +6,7 @@
     <h2 style="font-family: 'Roboto', sans-serif; text-decoration: none;">T2 Shock Tunnel Automation Progress</h2>
     <div style="width: 80%; margin: 0 auto; background-color: #f3f3f3; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); height: 50px;">
         <div style="height: 100%; width: 20%; background-color: orange; border-radius: 15px; text-align: center; line-height: 50px; color: white; font-weight: bold;">
-            15%
+            30%
         </div>
     </div>
 </div>
