@@ -35,7 +35,7 @@ Given that T2 has been inactive for 30 years, this project supports its revitali
 
 ## Repository Basic Structure
 The repository follows a structured hierarchy as follows:
-- 1.0 [1.1 Project Documents](https://drive.google.com/drive/folders/1EEUJXDYN-YrShFJ8m5IPflVMaD38PGRV) Project management-related files, such as plans, task assignments, and meeting minutes
+- 1.0 [Project Documents](https://drive.google.com/drive/folders/1EEUJXDYN-YrShFJ8m5IPflVMaD38PGRV) Project management-related files, such as plans, task assignments, and meeting minutes
 - 2.0 [Design and Development](https://drive.google.com/drive/folders/13dA1Aj6Z43bpzQEQD2wi8tT5iaUKd82b) - Design and development-related materials, including prototypes, code, and design documents
 - 3.0 [Documentation](https://drive.google.com/drive/folders/1-0RIJPpM42lSHHvNO7_Eci5OCwbqimw6) - Key documents, such as requirements analysis, technical documentation, and user manuals
 - 4.0 [Resources](https://drive.google.com/drive/folders/1Xr5muFMaWCAu7KEgKbCxemngSl1hqa52) - Related resources, such as reference materials, datasets, and templates
