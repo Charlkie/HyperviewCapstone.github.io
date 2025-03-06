@@ -35,13 +35,13 @@ Given that T2 has been inactive for 30 years, this project supports its revitali
 
 ## Repository Basic Structure
 The repository follows a structured hierarchy as follows:
-1.0 Project Management - Project management-related files, such as plans, task assignments, and meeting minutes
-2.0 Design and Development - Design and development-related materials, including prototypes, code, and design documents
-3.0 Documentation - Key documents, such as requirements analysis, technical documentation, and user manuals
-4.0 Resources - Related resources, such as reference materials, datasets, and templates
-5.0 Communications - Communication records, including emails, discussion logs, and meeting summaries
-6.0 Project Closure - Project closure-related content, such as final deliverables and closure reports
-7.0 Past Version and Discarded Files - Archived previous versions and discarded files
+- 1.0 Project Management - Project management-related files, such as plans, task assignments, and meeting minutes
+- 2.0 Design and Development - Design and development-related materials, including prototypes, code, and design documents
+- 3.0 Documentation - Key documents, such as requirements analysis, technical documentation, and user manuals
+- 4.0 Resources - Related resources, such as reference materials, datasets, and templates
+- 5.0 Communications - Communication records, including emails, discussion logs, and meeting summaries
+- 6.0 Project Closure - Project closure-related content, such as final deliverables and closure reports
+- 7.0 Past Version and Discarded Files - Archived previous versions and discarded files
 
 ## Important Notes
 All files should be categorized and stored in the appropriate folders for better organization.
