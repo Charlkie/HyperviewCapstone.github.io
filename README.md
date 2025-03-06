@@ -35,13 +35,13 @@ Given that T2 has been inactive for 30 years, this project supports its revitali
 
 ## Repository Basic Structure
 The repository follows a structured hierarchy as follows:
-- 1.0 Project Management - Project management-related files, such as plans, task assignments, and meeting minutes
-- 2.0 Design and Development - Design and development-related materials, including prototypes, code, and design documents
-- 3.0 Documentation - Key documents, such as requirements analysis, technical documentation, and user manuals
-- 4.0 Resources - Related resources, such as reference materials, datasets, and templates
-- 5.0 Communications - Communication records, including emails, discussion logs, and meeting summaries
-- 6.0 Project Closure - Project closure-related content, such as final deliverables and closure reports
-- 7.0 Past Version and Discarded Files - Archived previous versions and discarded files
+- 1.0 [1.1 Project Documents](https://drive.google.com/drive/folders/1EEUJXDYN-YrShFJ8m5IPflVMaD38PGRV) Project management-related files, such as plans, task assignments, and meeting minutes
+- 2.0 [Design and Development](https://drive.google.com/drive/folders/13dA1Aj6Z43bpzQEQD2wi8tT5iaUKd82b) - Design and development-related materials, including prototypes, code, and design documents
+- 3.0 [Documentation](https://drive.google.com/drive/folders/1-0RIJPpM42lSHHvNO7_Eci5OCwbqimw6) - Key documents, such as requirements analysis, technical documentation, and user manuals
+- 4.0 [Resources](https://drive.google.com/drive/folders/1Xr5muFMaWCAu7KEgKbCxemngSl1hqa52) - Related resources, such as reference materials, datasets, and templates
+- 5.0 [Communications](https://drive.google.com/drive/folders/1rVEca124F5gI_rSpP8crXuPxaiRhZwka) - Communication records, including emails, discussion logs, and meeting summaries
+- 6.0 [Project Closure](https://drive.google.com/drive/folders/102ooc4ERUIvQ4UJuIl1_1tPefp1n1O00) - Project closure-related content, such as final deliverables and closure reports
+- 7.0 [Past Version and Discarded Files](https://drive.google.com/drive/folders/1K8-7WGOtuO-DiLu1Gcs81D_IVpaUGQtL) - Archived previous versions and discarded files
 
 ## Important Notes
 All files should be categorized and stored in the appropriate folders for better organization.
