@@ -11,15 +11,10 @@
     </div>
 </div>
 
-## Project Summary
+## Project Overview
 
-We are recommissioning a hypersonic research facility at ANU. The T2 shock tunnel facility is old, and manually
-controlled. This project involves designing and implementing an automated gas filling system for the T2 shock
-tunnel that monitors and performs filling of the various chambers of the facility with gas at specified conditions,
-while checking for malfunctions such as leaks and preventing operations from being performed in the wrong
-order. This system will be controlled by an ARM-based linux board. The project involves electronic design and
-embedded system programming, as well as safety engineering. The output should be a set of open-source codes,
-hardware and documentation for a user-friendly interface for this facility.
+The Hyperview Project aims to develop a fail-safe control system for the T2 Free-Piston Shock Tunnel Facility (T2)at ANU. This system will automate and regulate gas filling using pressure sensors, solenoid valves, and a user interface, ensuring safe operation and preventing failures.
+Given that T2 has been inactive for 30 years, this project supports its revitalization for aerospace research. A prototype—the Hyperview Testing Prototype (HTP)—will be built for testing. The system will be scalable, maintainable, and open-source, allowing future enhancements and seamless integration into T2.
 
 ## Meet the team
 
@@ -38,7 +33,22 @@ hardware and documentation for a user-friendly interface for this facility.
 
 ## [Functional Breakdown](https://docs.google.com/document/d/1AttRSd3ZpnZj-HwfrDnpwyIfs05T5YOCBRiZgvpuqZc/edit?tab=t.0)
 
-## [Repositories](https://drive.google.com/drive/folders/1iQv86kc0_cZ6hoyYyBE39-fbijGRcRPB?usp=sharing)
+## Repository Basic Structure
+The repository follows a structured hierarchy as follows:
+1.0 Project Management - Project management-related files, such as plans, task assignments, and meeting minutes
+2.0 Design and Development - Design and development-related materials, including prototypes, code, and design documents
+3.0 Documentation - Key documents, such as requirements analysis, technical documentation, and user manuals
+4.0 Resources - Related resources, such as reference materials, datasets, and templates
+5.0 Communications - Communication records, including emails, discussion logs, and meeting summaries
+6.0 Project Closure - Project closure-related content, such as final deliverables and closure reports
+7.0 Past Version and Discarded Files - Archived previous versions and discarded files
+
+## Important Notes
+All files should be categorized and stored in the appropriate folders for better organization.
+When updating documents, please include version numbers and modification dates.
+For any questions, please contact Yingzheng Liu (u7112372@anu.edu.au) or Xind Lou (u6803896@anu.edu.au)
+
+## [Repositories Exploded Structre](https://drive.google.com/drive/folders/1iQv86kc0_cZ6hoyYyBE39-fbijGRcRPB?usp=sharing)
 For convenince an expanded view (with link) of the repo's is provided below.
 
 <div>
