@@ -5,8 +5,8 @@
 <div style="text-align: center; font-family: 'Roboto', sans-serif;">
     <h2 style="font-family: 'Roboto', sans-serif; text-decoration: none;">T2 Shock Tunnel Automation Progress</h2>
     <div style="width: 80%; margin: 0 auto; background-color: #f3f3f3; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); height: 50px;">
-        <div style="height: 100%; width: 95%; background-color: rgb(82, 233, 0); border-radius: 15px; text-align: center; line-height: 50px; color: white; font-weight: bold;">
-            95%
+        <div style="height: 100%; width: 100%; background-color: rgb(82, 233, 0); border-radius: 15px; text-align: center; line-height: 50px; color: white; font-weight: bold;">
+            100%
         </div>
     </div>
 </div>
@@ -15,6 +15,20 @@
 
 The Hyperview Project aims to develop a fail-safe control system for the T2 Free-Piston Shock Tunnel Facility (T2)at ANU. This system will automate and regulate gas filling using pressure sensors, solenoid valves, and a user interface, ensuring safe operation and preventing failures.
 Given that T2 has been inactive for 30 years, this project supports its revitalization for aerospace research. A prototype—the Hyperview Testing Prototype (HTP)—will be built for testing. The system will be scalable, maintainable, and open-source, allowing future enhancements and seamless integration into T2.
+
+## Prototype Demonstration
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=TsV6ZlBW4jw">
+        <img src="https://img.youtube.com/vi/TsV6ZlBW4jw/0.jpg" alt="▶️ Watch demo">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 ## Meet the team
 
